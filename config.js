@@ -13,7 +13,7 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 global.owner = [
 ["51955095498", 'Richetti', true], //Richetti
 ["51933348947"], 
-["56945086055"], 
+["5492616866559"], 
 ["56945086055"], 
 ["56945086055"],
 ["56945086055"],
@@ -103,11 +103,11 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["56945086055", 'MichiBot', 1], 
-["56945086055", 'MichiBot', 1],  
-["56945086055", 'MichiBot', 1],
-["56945086055", 'MichiBot', 1],
-["56945086055", 'MichiBot', 1]]
+["56945086055", 'RebelBot', 1], 
+["56945086055", 'RebelBot', 1],  
+["56945086055", 'RebelBot', 1],
+["56945086055", 'RebelBot', 1],
+["56945086055", 'RebelBot', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = 'MichiBot el mejor bot de whatsapp' //agrega una descripción corta
@@ -122,12 +122,12 @@ global.author = "MichiBot"
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "MichiBot"
-global.yt = "https://www.instagram.com/ceogeripium.dzn"
-global.yt2 = "https://www.instagram.com/ceogeripium.dzn"
-global.ig = "https://www.instagram.com/ceogeripium.dzn"
-global.md = "https://www.instagram.com/ceogeripium.dzn"
-global.fb = "https://www.instagram.com/ceogeripium.dzn"
+global.gt = "RebelBot"
+global.yt = "https://www.instagram.com/giulibarretto"
+global.yt2 = "https://www.instagram.com/giulibarretto"
+global.ig = "https://www.instagram.com/giulibarretto"
+global.md = "https://www.instagram.com/giulibarretto"
+global.fb = "https://www.instagram.com/giulibarretto"
 
 global.nna = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //CANAL UPDATE
 global.nn2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //UPDATE
@@ -177,8 +177,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = "MichiBot"
-global.igfg = "MichiBot"
+global.wm = "RebelBot"
+global.igfg = "RebelBot"
 global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
